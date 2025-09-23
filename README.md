@@ -14,8 +14,8 @@ I am is a dedicated Software Engineer with five years of experience developing i
 <hr/>
 
 ## 🤳 Connect With Me
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://www.linkedin.com/in/latrice-m-postell-67901934/" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/latrice-m-postell-67901934/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
