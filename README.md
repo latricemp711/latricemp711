@@ -1,16 +1,23 @@
-## Hi there 👋
+#Latrice M. Postell <a href="https://www.linkedin.com/in/latrice-m-postell-67901934/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
+
+I am is a dedicated Software Engineer with five years of experience developing innovative web solutions that have enhanced user engagement and accessibility. I have played a pivotal role in integrating third-party chat systems and launching global virtual agent solutions, leveraging her expertise in JavaScript, CSS, XML, and HTML. With experience working on government and private sector projects, including the Department of Homeland Security, I has managed secure content systems and optimized web structures. My background also includes elearning development, multimedia design, and professional documentation. Recently earning my CompTIA Security+ certification, Latrice is eager to transition into cybersecurity, applying her technical skills to web security, incident response and risk management.
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](#)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](#)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](#)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[linkedin]: [https://linkedin.com/in/___________](https://www.linkedin.com/in/latrice-m-postell-67901934/)
 
 <!--
-**latricemp711/latricemp711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
