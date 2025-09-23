@@ -1,4 +1,4 @@
-#Latrice M. Postell <a href="https://www.linkedin.com/in/latrice-m-postell-67901934/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/latrice-m-postell-67901934/">Latrice M. Postell</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I am is a dedicated Software Engineer with five years of experience developing innovative web solutions that have enhanced user engagement and accessibility. I have played a pivotal role in integrating third-party chat systems and launching global virtual agent solutions, leveraging her expertise in JavaScript, CSS, XML, and HTML. With experience working on government and private sector projects, including the Department of Homeland Security, I has managed secure content systems and optimized web structures. My background also includes elearning development, multimedia design, and professional documentation. Recently earning my CompTIA Security+ certification, Latrice is eager to transition into cybersecurity, applying her technical skills to web security, incident response and risk management.
 
