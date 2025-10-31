@@ -6,6 +6,7 @@ I am is a dedicated Software Engineer with five years of experience developing i
 
 - **[Vulnerability Management Program Implementation](https://github.com/latricemp711/vulnerability-management-program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](#)**
+-  **[STIGS](https://github.com/latricemp711/STIGS-/tree/STIGS) 
 
 ## 🚨 Threat Hunting and Security Operations
 
