@@ -10,7 +10,7 @@ I am is a dedicated Software Engineer with five years of experience developing i
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/latricemp711/Threat-Hunting-Scenario-TOR-Project-Creation)**
-**[Threat Hunting Scenario - T1059 Command and Scripting Interpreter ](#)**
+- **[Threat Hunting Scenario - T1059 Command and Scripting Interpreter ](#)**
 
 <hr/>
 
